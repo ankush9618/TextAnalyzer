@@ -1,4 +1,4 @@
-# Text Analyzer
+![image](https://github.com/ankush9618/textanalyzer/assets/70734844/e4c2055a-d3ce-4acc-9d83-9235e656c17f)# Text Analyzer
 
 The TextAnalyzer project is a React-based web application designed to analyze and manipulate text input provided by the user. Here's a summary of its key features and functionality:
 
@@ -36,4 +36,6 @@ Writers and editors can easily transform text to uppercase, lowercase, or camel 
 Students and professionals can analyze text statistics like word count and reading time estimation.
 The toggleable light and dark modes cater to user preferences for different viewing environments.
 ```
-![Uploading image.png…]()
+![image](https://github.com/ankush9618/textanalyzer/assets/70734844/83a02f50-e46a-40f9-9683-792d474a4915)
+
+
