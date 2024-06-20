@@ -49,7 +49,7 @@ function TextAnalyzer() {
             <div className="w-full h-auto place-content-center text-center pt-10 pb-10" style={mode === "white" ? { backgroundColor: "white", color: "black" } : { backgroundColor: "black", color: "white" }}>
                 <Toggle onModeChange={onModeChange} mode={mode} />
                 <div className="mx-auto ">
-                    <h1 className="text-2xl font-bold pt-6 pb-6">Text Convertor</h1>
+                    <h1 className="text-2xl font-bold pt-6 pb-6">Text Analyzer</h1>
                     <textarea className="w-[80%] p-6 row-span-12 rounded-md" style={mode === "white" ? { outline: "1px solid black", color: "black" } : { outline: "none", color: "black" }}
                         placeholder="Enter Your Text Here..."
                         onChange={onTextChange}
