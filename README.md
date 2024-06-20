@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 # Text Analyzer
 
@@ -38,3 +39,5 @@ Writers and editors can easily transform text to uppercase, lowercase, or camel 
 Students and professionals can analyze text statistics like word count and reading time estimation.
 The toggleable light and dark modes cater to user preferences for different viewing environments.
 ```
+
+![image](https://github.com/ankush9618/textanalyzer/assets/70734844/b00faf5c-c9dc-478e-932b-ecb6b8519fa4)
