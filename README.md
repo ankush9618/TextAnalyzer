@@ -1,4 +1,4 @@
-![image](https://github.com/ankush9618/textanalyzer/assets/70734844/e4c2055a-d3ce-4acc-9d83-9235e656c17f)# Text Analyzer
+# Text Analyzer
 
 The TextAnalyzer project is a React-based web application designed to analyze and manipulate text input provided by the user. Here's a summary of its key features and functionality:
 
