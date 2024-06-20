@@ -36,6 +36,8 @@ Writers and editors can easily transform text to uppercase, lowercase, or camel 
 Students and professionals can analyze text statistics like word count and reading time estimation.
 The toggleable light and dark modes cater to user preferences for different viewing environments.
 ```
-![image](https://github.com/ankush9618/textanalyzer/assets/70734844/83a02f50-e46a-40f9-9683-792d474a4915)
+
+![image](https://github.com/ankush9618/textanalyzer/assets/70734844/3067c666-5735-41a9-bd2f-2529ca5298b5)
+
 
 
